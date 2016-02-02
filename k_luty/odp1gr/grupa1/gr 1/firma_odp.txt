@@ -1,0 +1,24 @@
+A) 34
+B)
+nazwisko	imiê		us³uga				data wykonania
+
+Zakolska	Anna		instalacja oprogramowania	2011-10-28
+Staniszak	Marta		instalacja oprogramowania	2011-10-27
+Kwaœniewski	Dominik		instalacja oprogramowania	2011-10-22
+Jachimow	Robert		monta¿ sieci			2011-10-26
+Kubiak		Milena		monta¿ sieci			2011-10-04
+Lewkowicz	Agnieszka	strony internetowe		2011-10-25
+Ignaszewski	Maciej		usuwanie wirusów		2011-10-18
+Sawicki		Marek		usuwanie wirusów		2011-10-11
+
+C) 
+us³uga				PoliczOfid_us³ugi
+instalacja oprogramowania	28
+usuwanie wirusów		21
+strony internetowe		19
+
+D)
+Bydgoszcz			34
+
+E)
+odp w pliku reklamy.doc
